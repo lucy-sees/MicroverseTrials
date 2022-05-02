@@ -1,1 +1,14 @@
-
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: rgb(230, 217, 173);
+    }
+    #welcome-section {
+        height: 600px;
+    }
+    header {
+        position: fixed;
+        width: 100%;
+        top: 0;
+        left: 0;
+      }
+  }
