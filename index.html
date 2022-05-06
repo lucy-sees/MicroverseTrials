@@ -1,24 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <title>Fork Me! FCC: Test Suite Template</title>
-    <link rel="stylesheet" href="css/style.css">
-  </head>
 
-  <body>
+<head>
+    <meta charset="UTF-8">
+    <title>Personal Portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
     <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
-    
-    <p>Hello World!</p>
-    <section id = "welcome-section"><h1>Welcome to our portforlio site ;)</h1> </section>
-    <section id ='projects'>
-      <div class="project-tile"></div>
-      <a href = "#"></a>
-    </section>
     <header id="header">
-      <nav id="navbar"><a href="" >link</a></nav>
+        <nav id="navbar">
+            <ul class="nav-list">
+                <li>
+                    <a href="#welcome-section">Home</a>
+                </li>
+                <li>
+                    <a href="#projects">Our Work</a>
+                </li>
+                <li>
+                    <a href="#contact">Contact Us</a>
+                </li>
+            </ul>
+        </nav>
     </header>
-    <div><a href="https://github.com/codewithed" id = "profile-link"></a></div>
+
+    <p>Hello World!</p>
+
+    <section id="welcome-section">
+        <h1>Welcome to our portforlio site ;)</h1>
+    </section>
+
+    <section id='projects'>
+        <div class="project-tile"></div>
+        <a href="#"></a>
+    </section>
+
+    <section id="contact">
+        <h2>Let's work together...</h2>
+        <li>
+            <a href="facebook.com" target="_blank" class="btn contact-details">
+                <i class="fab fa-facebook-square"></i> Facebook
+            </a>
+        </li>
+        </br>
+        <li><a href="twitter.com" target="_blank" class="btn contact-details"><i class="fab fa-twitter"></i> Twitter
+        </a></li>
+        </br>
+    </section>
+
+
+
+    <footer>
+        <p>
+            Welcome to our <em>portfolio</em>.
+        </p>
+        <p>
+            Created by <em>Edmund</em> & <em>Lucy</em>
+            <a href="https://github.com/codewithed" id="link-profile"></a>
+            <a href="https://github.com/lucy-sees" id="link-profile"></a>
+        </p>
+    </footer>
 
     <!--
 
@@ -32,6 +74,7 @@
     - The freeCodeCamp Team
 
     -->
-    <script  src="js/index.js"></script>
-  </body>
+    <script src="js/index.js"></script>
+</body>
+
 </html>
