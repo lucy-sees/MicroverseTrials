@@ -1,27 +1,32 @@
 @media only screen and (max-width: 600px) {
-    body {
-      background-color: rgb(230, 217, 173);
-    }
-    #navbar {
-        background-color: rgb(230, 217, 173);
-        display: flex;
-    }
-    .nav-list {
-      display: inline-flex;
-      flex-direction: row;
-      margin-inline-start: 0;
-      padding-inline-start: 0;
-    }
-    #welcome-section {
-        height: 600px;
-    }
-    header {
-        height: 600px;
-        width: 100%;
-        top: 0;
-        left: 0;
-      }
-    #welcome-section h1 {
-        font-size: 2.5rem;
+  body {
+    background-color: rgb(230, 217, 173);
+  }
+
+  #navbar {
+    background-color: rgb(230, 217, 173);
+    display: flex;
+  }
+
+  .nav-list {
+    display: inline-flex;
+    flex-direction: row;
+    margin-inline-start: 0;
+    padding-inline-start: 0;
+  }
+
+  #welcome-section {
+    height: 600px;
+  }
+
+  header {
+    height: 600px;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+
+  #welcome-section h1 {
+    font-size: 2.5rem;
   }
 }
