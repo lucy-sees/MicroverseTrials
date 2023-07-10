@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="2.png" alt="logo" width="140"  height="auto" />
+  <img src="LUCY.png" alt="logo" width="140"  height="auto"/>
   <br/>
 
   <h3><b>FreeCodeCamp Portfolio Project</b></h3>
@@ -48,7 +48,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
 
 - [Live Demo Link](https://lucy-sees.github.io/MicroverseTrials/)
 
