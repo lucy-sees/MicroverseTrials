@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="2.png" alt="logo" width="140"  height="auto" />
+  <img src="LUCY.png" alt="logo" width="140"  height="auto"/>
   <br/>
 
-  <h3><b>FCC Test Suite Template</b></h3>
+  <h3><b>FreeCodeCamp Portfolio Project</b></h3>
 </div>
 
 # 📗 Table of Contents
@@ -29,7 +29,7 @@
 
 **[FCC Test Suite Template]** is a simple project to help me to get familiar with the basic tools I needed to learn and put into practice in this project
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with">HTML and CSS</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -48,8 +48,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://lucy-sees.github.io/MicroverseTrials/)
 
